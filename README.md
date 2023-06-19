@@ -1,4 +1,4 @@
-# os_a2
+# README
 Nazarbayev University | Operating Systems Course | Assignment 2
 
 Consider an ABC bank where Anna and John have a shared account. The initial
